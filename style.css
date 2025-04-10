@@ -1,0 +1,21 @@
+#question-card.green {
+  background-color: rgba(0, 128, 0, 0.2);
+}
+#question-card.yellow {
+  background-color: rgba(255, 255, 0, 0.2);
+}
+#question-card.red {
+  background-color: rgba(255, 0, 0, 0.2);
+}
+
+.option-btn {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.correct {
+  background-color: #198754 !important;
+  color: white;
+}
+.incorrect {
+  opacity: 0.6;
+}
